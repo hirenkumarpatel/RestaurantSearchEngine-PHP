@@ -1,0 +1,5 @@
+Options -Indexes
+#ErrorDocument 401/401.php
+ErrorDocument 403 /forbidden.php
+ErrorDocument 404 /notfound.php
+#ErrorDocument 500 /500.php

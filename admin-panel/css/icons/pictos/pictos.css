@@ -1,0 +1,6 @@
+@font-face{
+	src:url("fonts/pictos-regular-webfont.ttf") format("truetype"),
+		url("fonts/pictos-regular-webfont.otf") format("opentype"),
+		url("fonts/pictos-regular-webfont.svg") format("svg");
+	font-family:pic;
+}

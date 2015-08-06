@@ -1,0 +1,122 @@
+@import url('icons/pictos/pictos.css');
+#login-form{
+    background:#f1f1f1 ;//292931
+    
+   font-family:'Open Sans';
+    height: 100px;
+}
+#login-form label.icon{
+    font-family:pic;
+    text-shadow:0 -1px 0 #666;
+    -webkit-font-smoothing: antialiased; 
+}
+
+#block{
+    background:#3b3e40;
+    margin: auto;
+    margin-top:200px;
+    border-radius: 3px;
+    width:345px;
+    height:215px;
+    // background: yellow;
+}
+#block:before{
+    content:'';
+    display:block;
+    width:330px;
+    height:3px;
+    }
+
+#block label.icon{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background:#dedede;
+    margin:15px;
+    text-align:center;
+    line-height:2.2;
+    color:#857487;
+    border-top-left-radius:2px;
+    border-bottom-left-radius:2px;
+}
+#block label#pass{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background:#dedede;
+    margin:-5px 15px;
+}
+
+
+#login{
+    width:315px;
+    height:40px;
+    margin: 15px 15px;
+    border:0;
+    border-radius:3px;
+    outline:0;
+    display:block;
+    font-size:14px;
+    background: #208ed3;
+
+
+}
+#login:hover{
+    color:#fff;
+
+}
+#user, #pass{
+    box-shadow:0.1px 0 2px #6c5B6d;
+    font-size: 18px;
+}
+#block input[type=text],#block input[type=password]{
+    font-family:'Open Sans';
+    font-weight:300;
+    -webkit-font-smoothing: antialiased;
+}
+#block input[type=text],#block input[type=password]{
+    width:265px;
+    height:38px;
+    margin:15px 15px;
+    border:0;
+    border-radius:3px;
+    outline:0;
+    display:block;
+    font-size:18px;
+    padding-left:45px;
+   
+}
+#block #checkbox
+{
+    width:300px;
+    margin:15px;
+    margin-left: 20px;
+    border:0;
+    border-radius:3px;
+    outline:0;
+    display:block;
+    font-size:18px;
+  
+
+}
+#block #checkbox label
+{
+    color: #fff;
+    font-size: 18px;
+}
+#block #checkbox input
+{
+    padding-left: 5px;
+}
+#block input[type=password]{
+    width:300x;
+    height:38px;
+    margin:-5px 15px;
+}
+#login{
+    color:#fff;font-size:18px;font-weight:bold;
+
+}
+#block:active > #block:before{
+    background-position:100px 100px;
+}

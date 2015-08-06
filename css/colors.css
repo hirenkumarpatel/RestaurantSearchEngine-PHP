@@ -1,0 +1,54 @@
+/*Backgrounds*/
+.accordion-heading.active a, .caption-right strong.title, #carousel .flex-direction-nav, .caption-right strong.title, .accordion-list li .frame strong.price, .featured-slider .caption strong.price, .left-box .head strong.date, .food-critic-header, .review-box a.btn-review, .food-detail ul li strong.date, .calendar-left, .bottom-sec, .chef-box .text .head, .post-date, .post-box a.btn-read, .widget-area .header, .btn-send, .featured-slider-area a.btn-follow, .btn-book-now, #calendar_wrap, .submit-btn, .btn-submit2, .btn-continue, .logo, .accordion-heading .accordion-toggle:hover, .mCSB_scrollTools .mCSB_draggerRail, .navbar-inverse .btn-navbar, .top-nav .navbar-inverse .nav li.dropdown.open > .dropdown-toggle, .navbar-inverse .nav li.dropdown.active > .dropdown-toggle, .navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle, .caption-center, .faq-tabs .nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus, .faq-tabs .nav > li > a:hover, .nav > li > a:focus, .accordion-heading.active, .accordion-heading .accordion-toggle:hover, .accordion-heading .accordion-toggle.active, .top-nav ul li a:hover, .top-nav .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a, .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle, .location-map-head, a.back-top,  .bx-wrapper .bx-pager a:hover, .bx-wrapper .bx-pager a.active, .post-date{
+	background-color: #A80000 !important;
+}
+/*Backgrounds*/
+
+/*text colors*/
+.accordion-heading.active a, .caption-right strong.title, .accordion-list li .frame strong.price, .featured-slider .caption strong.price, .left-box .head strong.date, .food-critic-header h3, .review-box a.btn-review, .food-detail ul li strong.date, .calendar-left strong.day, .calendar-left strong.date,.calendar-left strong.title, .bottom-sec a.week, .chef-box .text .head h5, .post-date strong.date, .post-box a.btn-read, .widget-area .header h2, .btn-send, .featured-slider-area a.btn-follow, .btn-book-now, #wp-calendar caption, #wp-calendar thead, #wp-calendar tbody td, .submit-btn, .btn-submit2, .btn-continue, .accordion-heading .accordion-toggle:hover, .btn-review, .accordion-heading.active, .accordion-heading .accordion-toggle:hover, .accordion-heading .accordion-toggle.active, .top-nav ul li a:hover, .top-nav .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a, .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle, .caption-center strong.title, .icon-arrow-right, .btn-submit-3, .product-text-box-4 a.price{
+	color:#fff !important;
+}
+/*text colors*/
+
+.caption-left:after{
+	border-top-color:#A80000;
+}
+.banner-left{
+	background-color:#A80000 !important;
+}
+/*Border Colors*/
+.events-box-head,.left-box .head, .food-detail, .unique-box, .post-detail, #header, .btn-review, #banner{
+	border-color:#A80000 !important;
+}
+/*Border Colors*/
+
+/*Button*/
+.btn-review, .btn-ok, .post-guests .btn-submit, .btn-send, .event-deatil-area .left a.view-map, .event-box-inner .detail a.view-detail, .event-box a.view-past, .btn-submit-3, .cbtn, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .checkout_btn, .product-text-box-4 a.price, .form-list li .btn-continue, .btn-submit{
+	background:#A80000 !important;
+}
+/*Button*/
+
+/*Button Hover*/
+.btn-review:hover, .btn-ok:hover, .post-guests .btn-submit:hover, .btn-send:hover, .event-deatil-area .left a.view-map:hover, .event-box-inner .detail a.view-detail:hover, .event-box a.view-past:hover, .btn-submit-3:hover, .cbtn:hover, .pull-left.continue_shopping.button.cbtn:hover .checkout_btn, .product-text-box-4 a.price:hover, .form-list li .btn-continue:hover, .btn-submit:hover, .featured-slider-area a.btn-follow:hover, .btn-book-now:hover, .submit-btn:hover, .menu-list-text a.btn-select:hover, .btn-submit2:hover, .today-recepie-box a.read-more:hover, .recepie-menu-box a.view:hover, .btn-submit-4:hover, .post-box a.btn-read:hover, .button.alt:hover, .menu-list-text a.btn-cart:hover, .btn-continue:hover{
+	background:#910b03 !important;
+}
+/*Button Hover*/
+
+
+/*Banner Button*/
+#banner .bx-wrapper .bx-next:hover, #banner .bx-wrapper .bx-prev:hover{
+	background-color: rgba(168, 0, 0, 0);
+}
+/*Banner Button*/
+
+/*Opacity Background*/
+.footer-section-2, .twitter-feed-section, .footer-section-2, #footer, .events-box-head{
+	background-color:#222;
+}
+/*Opacity Background*/
+
+/*font awesome*/
+.icon-arrow-right{
+	color:#A80000 !important;
+}
+/*font awesome*/
